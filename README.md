@@ -14,7 +14,7 @@
 
 ### I am on other social networks
 [![Telegram](https://img.shields.io/badge/-Telegram-2b1a3e?style=for-the-badge&logo=Telegram&logoColor=30acec)](https://t.me/azim0nt)
-[![Gmail](https://img.shields.io/badge/-Gmail-2b1a3e?style=for-the-badge&logo=Gmail&logoColor=e55348)](malito:kktotov457@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-2b1a3e?style=for-the-badge&logo=Gmail&logoColor=e55348)](mailto:kktotov457@gmail.com)
 [![Kwork](https://img.shields.io/badge/-Kwork-2b1a3e?style=for-the-badge)](https://kwork.ru/user/azim0nt)
 
 
