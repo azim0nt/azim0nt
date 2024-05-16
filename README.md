@@ -13,12 +13,16 @@
 
 
 ### I am on other social networks
-![Telegram](https://img.shields.io/badge/-Telegram-2b1a3e?style=for-the-badge&logo=Telegram&logoColor=30acec)(https://t.me/azim0nt)
-![Gmail](https://img.shields.io/badge/-Gmail-2b1a3e?style=for-the-badge&logo=Gmail&logoColor=e55348)(malito:kktotov457@gmail.com)
-![K](https://img.shields.io/badge/-Kwork-2b1a3e?style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/-Telegram-2b1a3e?style=for-the-badge&logo=Telegram&logoColor=30acec)](https://t.me/azim0nt)
+[![Gmail](https://img.shields.io/badge/-Gmail-2b1a3e?style=for-the-badge&logo=Gmail&logoColor=e55348)](malito:kktotov457@gmail.com)
+[![Kwork](https://img.shields.io/badge/-Kwork-2b1a3e?style=for-the-badge)](https://kwork.ru/user/azim0nt)
 
-### My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=dark&show_icons=true&bg_color=2b1a3e)](https://github.com/azim0nt/github-readme-stats)
 
+## My beautiful projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=dark&show_icons=true&bg_color=2b1a3e)](https://github.com/azim0nt/audio_player)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=dark&show_icons=true&bg_color=2b1a3e)](https://github.com/azim0nt/tracking-odds)
+
+## Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=dark&show_icons=true&bg_color=2b1a3e&https://kwork.ru/user/azim0nt)](https://github.com/azim0nt/github-readme-stats)
+
