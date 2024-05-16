@@ -20,5 +20,5 @@
 ### My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=dark&show_icons=true)](https://github.com/azim0nt/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=dark&show_icons=true)](https://github.com/azim0nt/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=dark&show_icons=true)](https://github.com/azim0nt/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=dark&show_icons=true)](https://github.com/azim0nt/audio_player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=dark&show_icons=true)](https://github.com/azim0nt/tracking-odds)
