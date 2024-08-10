@@ -31,12 +31,12 @@
 <a href='mailto:kktotov457@gmail.com'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg'></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <div>
+  <div style="width:50%;">
     <a href="https://github.com/azim0nt/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple" alt="Top Langs"  />
     </a>
   </div>
-  <div>
+  <div style="width:50%;">
     <img width='100%' src='https://github.com/azim0nt/azim0nt/blob/main/assets/image.gif'>
   </div>
 </div>
