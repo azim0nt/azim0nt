@@ -3,7 +3,8 @@
 # I'm a web developer
 
 ### Languages and tools
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2b1a3e?style=for-the-badge&logo=Bootstrap&logoColor=8812fc)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
+
 ![Sass](https://img.shields.io/badge/-Sass-2b1a3e?style=for-the-badge&logo=sass&logoColor=cf6c9c)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-2b1a3e?style=for-the-badge&logo=JAVASCRIPT&logoColor=f7e025)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-2b1a3e?style=for-the-badge&logo=nodedotjs&logoColor=87cf30)
