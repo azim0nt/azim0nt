@@ -37,4 +37,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=midnight-purple)](https://github.com/azim0nt/audio_player)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=midnight-purple)](https://github.com/azim0nt/tracking-odds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=NetGen&theme=midnight-purple)](https://github.com/azim0nt/NetGen)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=first-crm&theme=midnight-purple)](https://github.com/azim0nt/first-crm)
