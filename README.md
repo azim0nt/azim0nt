@@ -1,6 +1,5 @@
 ![Header](https://github.com/Azim0nt/azim0nt/blob/main/assets/header.png)
 
-
 # I'm a web developer
 
 ### Languages and tools
@@ -32,16 +31,16 @@
 <a href='mailto:kktotov457@gmail.com'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg'></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <div >
-    <a  href="https://github.com/azim0nt/github-readme-stats">
+  <div>
+    <a href="https://github.com/azim0nt/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple" alt="Top Langs"  />
     </a>
   </div>
   <div>
-  <img src='https://github.com/azim0nt/azim0nt/blob/main/assets/image.gif'>
+    <img width='100%' src='https://github.com/azim0nt/azim0nt/blob/main/assets/image.gif'>
   </div>
 </div>
 
 ## My beautiful projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=midnight-purple)](https://github.com/azim0nt/audio_player)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=midnight-purple)](https://github.com/azim0nt/tracking-odds)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=midnight-purple)](https://github.com/azim0nt/audio_player)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=midnight-purple)](https://github.com/azim0nt/tracking-odds)
