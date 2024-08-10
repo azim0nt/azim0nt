@@ -3,13 +3,35 @@
 # I'm a web developer
 
 ### Languages and tools
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
+<style>
+.lang-tools{
+    display: flex;
+    width: 100vh;
+}
+</style>
 
-![Sass](https://img.shields.io/badge/-Sass-2b1a3e?style=for-the-badge&logo=sass&logoColor=cf6c9c)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-2b1a3e?style=for-the-badge&logo=JAVASCRIPT&logoColor=f7e025)
-![NodeJs](https://img.shields.io/badge/-NodeJs-2b1a3e?style=for-the-badge&logo=nodedotjs&logoColor=87cf30)
-![React](https://img.shields.io/badge/-React-2b1a3e?style=for-the-badge&logo=react&logoColor=61dafb)
-![Python](https://img.shields.io/badge/-Python-2b1a3e?style=for-the-badge&logo=Python&logoColor=3e74a4)
+<div class='lang-tools'>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg">
+</div>
+
+
 
 
 
