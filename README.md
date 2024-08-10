@@ -1,6 +1,6 @@
 ![Header](https://github.com/Azim0nt/azim0nt/blob/main/assets/header.png)
 
-# I'm a web developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=9745F5&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Azim0nt;I+am+a+web+developer.)](https://git.io/typing-svg)
 
 ### Languages and tools
 
@@ -30,10 +30,11 @@
 <a href='https://t.me/azim0nt'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg'></a>
 <a href='mailto:kktotov457@gmail.com'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg'></a>
 
-<p>
-    <img align='left' width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple" alt="Top Langs"  />
-    <img  align='right-center' width='45%' src='https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif'>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple)](https://github.com/azim0nt)
+<a href="https://youtu.be/dQw4w9WgXcQ?si=t2uXWWr8o3EEVJZ2">
+  <img src="https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif" alt="Alt Text" width="50%">
+</a>
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=midnight-purple)](https://github.com/azim0nt/audio_player)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=midnight-purple)](https://github.com/azim0nt/tracking-odds)
