@@ -37,6 +37,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple" alt="Top Langs"  />
     </a>
   </div>
+  <div>
+  <img src='https://github.com/azim0nt/azim0nt/blob/main/assets/image.gif'>
+  </div>
 </div>
 
 ## My beautiful projects
