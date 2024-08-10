@@ -30,17 +30,10 @@
 <a href='https://t.me/azim0nt'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg'></a>
 <a href='mailto:kktotov457@gmail.com'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg'></a>
 
-<div style="display: flex; align-items: center;">
-  <div style="width:50%;">
-    <a href="https://github.com/azim0nt/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple" alt="Top Langs"  />
-    </a>
-  </div>
-  <div style="width:50%;">
-    <img width='100%' src='https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif'>
-  </div>
-</div>
+<p>
+    <img align='left' width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple" alt="Top Langs"  />
+    <img  align='right-center' width='45%' src='https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif'>
+</p>
 
-## My beautiful projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=audio_player&theme=midnight-purple)](https://github.com/azim0nt/audio_player)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=tracking-odds&theme=midnight-purple)](https://github.com/azim0nt/tracking-odds)
