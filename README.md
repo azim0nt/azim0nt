@@ -26,10 +26,10 @@
 ### My deployed projects
 
 https://first-crm.onrender.com  
-https://webnxt.onrender.com
-https://confectionary-shop.onrender.com
-https://audio-player-svxq.onrender.com
-https://t.me/study_webapp_bot
+https://webnxt.onrender.com  
+https://confectionary-shop.onrender.com  
+https://audio-player-svxq.onrender.com  
+https://t.me/study_webapp_bot  
 
 
 ### I am on other social networks
