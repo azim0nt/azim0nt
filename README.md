@@ -1,13 +1,13 @@
 <div align="center">
   <img width='100%' src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=9745F5&background=1A1B26&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Azim0nt;I+am+a+web+developer" alt="Typing SVG" />
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
 </div>
 
 ## 👨‍💻 Обо мне
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
 </div>
 
 Привет! Я веб-разработчик, увлеченный созданием современных и отзывчивых веб-приложений. Мой стек технологий включает React, Django, Python и JavaScript. Я люблю решать сложные задачи и создавать пользовательские интерфейсы, которые делают жизнь людей лучше.
