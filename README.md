@@ -15,8 +15,7 @@
 ## 🛠️ Технологии и инструменты
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Vue-1A1B26?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Django-1A1B26?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
@@ -24,7 +23,6 @@
   <img src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/Vite-1A1B26?style=for-the-badge&logo=vite&logoColor=white" alt="ViteJS">
   <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Amazon_S3-1A1B26?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3">
   <img src="https://img.shields.io/badge/npm-1A1B26?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/Sass-1A1B26?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/Figma-1A1B26?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -41,30 +39,17 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://www.asadbasseyn.uz/en/"><img src="https://img.shields.io/badge/Asad_ Basseyn-1A1B26?style=for-the-badge&logo=django&logoColor=white" alt="Study Bot"></a></td>
+      <td><a href="https://first-crm.onrender.com"><img src="https://img.shields.io/badge/CRM_System-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="CRM System"></a></td>
       <td><a href="https://webnxt.onrender.com"><img src="https://img.shields.io/badge/WebNXT-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="WebNXT"></a></td>
-      <td><a href="https://first-crm.onrender.com"><img src="https://img.shields.io/badge/CRM_System(interface)-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="CRM System"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.tradeandpro.uz/"><img src="https://img.shields.io/badge/Trade_And_Pro-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="Trade_And_Pro"></a></td>
-      <td><a href="https://audio-player-svxq.onrender.com"><img src="https://img.shields.io/badge/Audio_Player-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="Audio Player"></a></td>
       <td><a href="https://confectionary-shop.onrender.com"><img src="https://img.shields.io/badge/Confectionary_Shop-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="Confectionary Shop"></a></td>
     </tr>
     <tr>
-      <td><a href="https://budha-nrg.com/"><img src="https://img.shields.io/badge/Bugha_NRG-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="Bugha NRG"></a></td>
+      <td><a href="https://audio-player-svxq.onrender.com"><img src="https://img.shields.io/badge/Audio_Player-1A1B26?style=for-the-badge&logo=react&logoColor=white" alt="Audio Player"></a></td>
+      <td><a href="https://t.me/study_webapp_bot"><img src="https://img.shields.io/badge/Study_Bot-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Study Bot"></a></td>
     </tr>
   </table>
 </div>
 
-### 📦 GitHub проекты
-<div align="center">
-  <a href="https://github.com/azim0nt/NetGen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=NetGen&theme=midnight-purple&hide_border=true" alt="NetGen">
-  </a>
-  <a href="https://github.com/azim0nt/first-crm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=first-crm&theme=midnight-purple&hide_border=true" alt="first-crm">
-  </a>
-</div>
 
 ## 📊 GitHub статистика
 
@@ -84,14 +69,15 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif" alt="Alt Text" width="50%">
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=azim0nt&color=1A1B26&style=flat-square" alt="Profile Views">
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azim0nt&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy">
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azim0nt&color=1A1B26&style=flat-square" alt="Profile Views">
+</div>
+<div align="center">
+  <img src="https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif" alt="Alt Text" width="50%">
 </div>
